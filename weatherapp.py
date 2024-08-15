@@ -73,7 +73,7 @@ if __name__ == "__main__":
     root = tk.Tk()
     
     # Replace with your actual OpenWeatherMap API key
-    api_key = "9c7ab8041d6fdd170979077b258ab72b"
+    api_key = "YOUR_API_KEY"
     
     app = WeatherApp(root, api_key)
     root.mainloop()
